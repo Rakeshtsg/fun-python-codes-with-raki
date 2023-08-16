@@ -3,7 +3,7 @@ import mediapipe as mp
 from math import hypot
 import screen_brightness_control as sbc
 import numpy as np
-
+#raki
 # Initializing the Model
 mpHands = mp.solutions.hands
 hands = mpHands.Hands(
