@@ -1,3 +1,18 @@
+'''🦕🌵 Dino Dash Game with Hand Gestures 🌵🦖
+
+Welcome to the exciting world of Dino Dash! 🌄🏃‍♂️ Control your fearless dino using hand gestures and help it navigate through a treacherous desert filled with cacti. This game is designed to be played right in your browser using your webcam. Put your hand gestures to the test and see how far you can guide your dino!
+
+🎮 Gameplay Instructions:
+
+Open the game link in your browser on GitHub.
+Allow access to your webcam for hand gesture recognition.
+Use the following hand gestures to control the dino:
+Jump: Raise your hand in a quick upward motion ✋👆.
+Duck: Lower your hand in a quick downward motion ✋👇.
+Avoid colliding with the cacti 🌵 on the ground.
+Collect shiny gems 💎 to boost your score.
+See how far you can run and compete for the highest score!'''
+
 import cv2
 from cvzone.HandTrackingModule import HandDetector
 from directkeys import PressKey, ReleaseKey
